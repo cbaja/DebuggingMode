@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DebuggingMode</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnDemo">New Button</string>
+    <string name="txtDemo">Demo</string>
+</resources>
